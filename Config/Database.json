@@ -1,0 +1,7 @@
+{
+	"username": "webshop",
+	"hostname": "localhost",
+	"password": "webshop",
+	"database": "webshop",
+	"port": 3306
+}
