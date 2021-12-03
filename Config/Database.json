@@ -1,6 +1,6 @@
 {
+	"hostname": "172.18.0.3",
 	"username": "webshop",
-	"hostname": "localhost",
 	"password": "webshop",
 	"database": "webshop",
 	"port": 3306
